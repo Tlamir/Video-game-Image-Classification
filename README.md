@@ -2,6 +2,10 @@
 
 A deep learning project implementing CNN (Convolutional Neural Network) architecture for automatic classification of video game screenshots. This project demonstrates comprehensive deep learning techniques including data preprocessing, model development, evaluation, and interpretation.
 
+## Links
+#### Kaggle: https://www.kaggle.com/code/yiithangven/yigithan-guven-videogame-image-classification
+#### Dataset: https://www.kaggle.com/datasets/juanmartinzabala/videogame-image-classification
+
 ## Project Scope
 
 This project addresses the challenge of automatically identifying video games from screenshots using computer vision and deep learning techniques. The system analyzes visual elements such as user interfaces, art styles, game environments, and distinctive graphical features to classify screenshots into their respective game categories.
