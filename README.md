@@ -6,6 +6,8 @@ A deep learning project implementing CNN (Convolutional Neural Network) architec
 #### Kaggle: https://www.kaggle.com/code/yiithangven/yigithan-guven-videogame-image-classification
 #### Dataset: https://www.kaggle.com/datasets/juanmartinzabala/videogame-image-classification
 
+![Project Screenshot](https://www.kaggleusercontent.com/kf/262493961/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..JR2h2JUq89PYWKg_VBmw-Q.SbmkRJNwQLDC8O7uHSFvSC2VVWByXQw3NZpbhbuApptl7UTG2LHwIFsvuw0B6pXNIsKmunxhXQHh720banQBVomCBR_FMnlK2IoLBJn8BukFO38fPj0KJazUmkSrmKhQVsGD9u1y44M5MG-bLoUivmv-FsMt4wLVSQyTk8_Plw3DMFI6eL9tiKiEVg6ZE05ef_LGfAUNO5XDPb_WrK-_v7jsg3RybC7KagpZQ9vhpjdf0G0TLZsd1kg53IGsWrT7Lsfjt_-1ZZQadhPKXAl_w8jBdDP0mQ7jliEDrF0UZrA9qib4zmTrRY6z7hzDsz-oTUGfMBKknLfvB7GRiUX3VjBlpAipy-Vy50V7fTM2HNifZS7thWbaelxkq0Jr1T5nXimcym5o8pp6CRu27GKUUfZjJjXRZF5_wSNPMxZQdIDPQ0jatjzUMZynPWkJpjPQLR4P1yaVRI90BQ59Bg4d6E5b64TKRQ7E1JEv4LGsr33ja5mdAp1iipnRXo9nD-Q8qybbg62c4KCSTrCNm7jCNxFj54Fpo7F-QZ2T7oBhsTrSLuNEBNZe2l4g92MnmjSPaAOBWWIgeYmxGsRn1sJsKPCT1AHd-UwqLeZEisrkekDDSF400pMxKsyUmT5vdCHdrCzUS5_rw_76rYSDHMFoOA.PwnXcJvShNsWXtAcGx96UA/__results___files/__results___3_1.png)
+
 ## Project Scope
 
 This project addresses the challenge of automatically identifying video games from screenshots using computer vision and deep learning techniques. The system analyzes visual elements such as user interfaces, art styles, game environments, and distinctive graphical features to classify screenshots into their respective game categories.
